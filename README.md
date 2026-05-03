@@ -4,7 +4,6 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Razor%20Pages-purple)
 ![C#](https://img.shields.io/badge/C%23-Programming-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
 ## Description
 This project is a simple ASP.NET Core Razor Pages web application that demonstrates the basic structure of a website.
